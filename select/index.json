@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Wish for you",
+  "base_artist": "前島亜美",
+  "createdAt": "2026-02-14T00:22:48.116965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wish for You",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/01_Wish_for_You_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wish for You",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/02_Wish_for_You_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Christmas Wish (aka My Christmas Wish for You) [LP Version]",
+      "artist": "Percy Sledge",
+      "has_synced": true,
+      "path": "select/03_Christmas_Wish_(aka_My_Christmas_Wish_for_You)_[LP_Version]_Percy_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Christmas Wish (aka My Christmas Wish for You) (Single Version)",
+      "artist": "Percy Sledge",
+      "has_synced": true,
+      "path": "select/04_Christmas_Wish_(aka_My_Christmas_Wish_for_You)_(Single_Version)_Percy_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Christmas Wish (Aka My Christmas Wish for You)",
+      "artist": "Percy Sledge",
+      "has_synced": true,
+      "path": "select/05_Christmas_Wish_(Aka_My_Christmas_Wish_for_You)_Percy_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wish For You",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/06_I_Wish_For_You_EXILE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Wish for You",
+      "artist": "Element 101",
+      "has_synced": false,
+      "path": "select/07_A_Wish_for_You_Element_101.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wish For You",
+      "artist": "Jessica Andrews",
+      "has_synced": false,
+      "path": "select/08_I_Wish_For_You_Jessica_Andrews.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Wish For You",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/09_I_Wish_For_You_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Wish For You - TOWER OF WISH Version",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/10_I_Wish_For_You_-_TOWER_OF_WISH_Version_Exile.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wish for You",
+      "artist": "Amanda Shires",
+      "has_synced": true,
+      "path": "select/11_Wish_for_You_Amanda_Shires.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wish For You",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/12_Wish_For_You_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wish for You",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/13_Wish_for_You_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wish For You For Christmas",
+      "artist": "Nick Wilkins",
+      "has_synced": false,
+      "path": "select/14_Wish_For_You_For_Christmas_Nick_Wilkins.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/15_Be_Careful_What_You_Wish_For_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/16_Be_Careful_What_You_Wish_For_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Careful What You Wish For",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/17_Careful_What_You_Wish_For_Texas.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Careful What You Wish For",
+      "artist": "Jonatha Brooke",
+      "has_synced": false,
+      "path": "select/18_Careful_What_You_Wish_For_Jonatha_Brooke.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": false,
+      "path": "select/19_Be_Careful_What_You_Wish_For_Yngwie_J._Malmsteen’s_Rising_Force.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "What You Wish For",
+      "artist": "Pythia",
+      "has_synced": true,
+      "path": "select/20_What_You_Wish_For_Pythia.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "A Wish for a Fish",
+      "artist": "Masters of Reality",
+      "has_synced": true,
+      "path": "select/21_A_Wish_for_a_Fish_Masters_of_Reality.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Careful What You Wish For",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/22_Careful_What_You_Wish_For_Testament.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/23_Be_Careful_What_You_Wish_For_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For!",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/24_Be_Careful_What_You_Wish_For!_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For! (World Beyond)",
+      "artist": "Erasure feat. Echo Collective",
+      "has_synced": false,
+      "path": "select/25_Be_Careful_What_You_Wish_For!_(World_Beyond)_Erasure_feat._Echo_Collective.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Careful What You Wish For",
+      "artist": "Meredith Brooks",
+      "has_synced": true,
+      "path": "select/26_Careful_What_You_Wish_For_Meredith_Brooks.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "A Wish for Something More",
+      "artist": "Amy MacDonald",
+      "has_synced": true,
+      "path": "select/27_A_Wish_for_Something_More_Amy_MacDonald.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "One Wish (For Christmas)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/28_One_Wish_(For_Christmas)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Be Careful What You Wish For",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/29_Be_Careful_What_You_Wish_For_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Careful What You Wish For",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/30_Careful_What_You_Wish_For_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Careful What You Wish For",
+      "artist": "Bad Omens",
+      "has_synced": true,
+      "path": "select/31_Careful_What_You_Wish_For_Bad_Omens.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wish for you",
+      "artist": "前島亜美",
+      "has_synced": false,
+      "path": "select/pl_01_Wish_for_you_前島亜美.txt"
+    }
+  ]
+}
